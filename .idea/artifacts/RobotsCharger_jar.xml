@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="RobotsCharger:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RobotsCharger_jar</output-path>
+    <root id="archive" name="RobotsCharger.jar">
+      <element id="module-output" name="RobotsCharger" />
+    </root>
+  </artifact>
+</component>
